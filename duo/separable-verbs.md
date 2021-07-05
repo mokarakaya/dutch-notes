@@ -1,0 +1,24 @@
+- vullen. fill/enter.
+- elk. every  
+- neerzetten. put down.
+- sta op. get up (e.g from chair.)
+- tegenkomen. come across.
+- stukje. piece/bit.
+- hou op. stop.
+- spreken af. agree on.
+- aankomen. arrive.
+- doe mee. join.
+- doorgaan met. continue.
+- vast. tightly.
+- laat los. let go of.
+- vallen om. fall over.
+- aanraken. touch
+- toevoegen. add.
+- terugkeer. return
+- ophaal. pick up.
+- leg uit. explain.
+- opstaan. rise.
+- zit neer. put down.
+
+- huwelijk. marriage
+- totdat. until.

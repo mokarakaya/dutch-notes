@@ -1,0 +1,3 @@
+- zuur. sour
+- zoet. sweet.
+- zout. salty.

@@ -1,0 +1,4 @@
+- praten. talk
+- haal. get
+- blijven. keep/stay
+- volgen. follow

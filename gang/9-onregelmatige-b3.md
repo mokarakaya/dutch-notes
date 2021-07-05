@@ -1,0 +1,50 @@
+# infinitief - imperfectum - zijn/hebben - perfectum - English
+- beginnen - begon, begonnen -  is - begonnen - begin, start
+- begrijpen - begreep, begrepen - - begrepen - understand.
+- binden - bond, bonden - - gebonden - tie.
+- blijven - bleef, bleven - is - gebleven - stay, remain.
+- brengen - bracht, brachten - - gebracht - bring.
+- denken - dacht, dachten - - gedacht - think.
+- doen - deed, deden - - gedaan - do.
+- gragen - droeg, droegen - - gedragen - carry, wear.
+- drijven - dreef, dreven - - gedreven - float.
+- drinken - dronk, dronken - - gedronken. drink.
+- eten - at, aten - - gegeten - eat.
+- gaan - ging, gingen - is - gegaan - go.
+- geven - gaf, gaven - - gegeven - give.
+- hebben - had, hadden - - gehad - have.
+- helpen - hielp, hielpen - - geholpen - help.
+- houden - hield, hielden - - gehouden - hold.
+- kiezen - koos, kozen - - gekozen - choose.
+- kijken - keek, keken - - gekeken - look.
+- komen - kwam, kwammen - is - gekomen - come.
+- kopen - kocht, kochten - - gekocht - buy.
+- krijgen - kreeg, kregen - - gekregen - get, receive.
+- kunnen - kon, konden - - gekund - be able.
+- lachen - lachte, lachten - - gelachen - laugh.
+- laten - liet, lieten -  - gelaten - let.
+- lezen - las, lazen -  - gelezen - read.
+- liegen - loog, logen - - gelogen - lie.
+- liggen - lag, lagen -  - gelegen - lie.
+- lopen - liep, liepen - (is) - gelopen - walk.
+- moeten - moest, moesten - - gemoeten - must, should.
+- mogen - mocht, mochten - - gemogen - be allowed to.
+- nemen - nam, namen - - genomen - take.
+- rijden - reed, reden - (is) - gereden - ride, drive.
+- schrijven - schreef, schreven - - geschreven - write.
+- sluiten - sloot, sloten  - - gesloten - close.
+- spreken - sprak, spraken - - gesproken - speak.
+- staan - stond, stonden - - gestaan - stand.
+- treffen - trof, troffen - - getroffen - hit.
+- vechten - vocht, vochten - - gevochten - fight.
+- vergeten - vergat, vergaten - (is) - vergeten - forget.
+- vinden - vond, vonden - - gevonden - find.
+- vragen - vroeg, vroegen - - gevraagd - ask.
+- weten - wist, wisten - - geweten - know.
+- willen - wilde, wou/wilden - - gewild - want.
+- worden - werd, werden - is - geworden - become.
+- zeggen - zei, zeiden - - gezegd - say.
+- zien - zag, zegen - - gezien - see.
+- zijn, was, waren - is - geweest - be.
+- zitten - zat, zaten - - gezeten - zit.
+- zoeken - zocht, zochten - - gezocht - search, look.

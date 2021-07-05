@@ -1,0 +1,26 @@
+- huil. cry.
+- bang. afraid of.
+- blij. happy.
+- lach. laugh/smile.
+- gelukkig. happy.
+- verdrietig. sad.
+- bedroefd. sad
+- gevoelens. feelings.
+- tonen. show.
+- humeur. mood.
+- veranderen. change.
+- trots op. proud of.
+- bezorgd. concerned.
+- verlegen. shy.
+- verrast. surprised.
+- jaloerse. jealous.
+- onzeker. uncertain/insecure.
+- vrolijk. cheerful/happy.
+- koppig. stubborn. inatci.
+- verliefd. in love.
+- moe. tired.
+- veilig. safe/secure.
+
+
+- boom. tree.
+- stem. voice.
