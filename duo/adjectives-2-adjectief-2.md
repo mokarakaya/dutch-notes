@@ -1,0 +1,15 @@
+- voorzichtig. careful.
+- gevaarlijk. dangerous.
+- schattig. cute.
+- stil. quiet.
+- stom. stupid.
+- stomme vraag. stupid question.
+- heel. entire.
+- lieve. sweet.
+- ingewikkeld. complicated.
+- Dat is lief van je. That is sweet of you.
+- stout. naughty. stoute hond. naughty dog.
+- geheime. secret.
+- geweldig gevoel. amazing feeling.
+
+- weigeren. refuse.
