@@ -1,3 +1,4 @@
+# 2
 - proberen. try.
 - beveel. order.
 - besluiten. decide.
@@ -10,3 +11,15 @@
 - blijken. turn out/appear.
 - durven. dare.
 - lege. empty.
+
+# 3
+- bevelen. order.
+- weigeren op (weigert). refuse to.
+- besluiten om. decide to.
+- dwingen. force.
+- beloof. promise.
+
+- nog steeds. still.
+
+# 4
+- durven niet. dare not to
