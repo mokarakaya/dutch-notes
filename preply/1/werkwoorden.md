@@ -1,0 +1,40 @@
+from: https://nt2taalmenu.nl/nt2-a1-woordenleren-werkwoorden-les1/
+- huilen. cry.
+  - Ik huil waneer ik kijk een dramafilm.
+  - Hij huilt op school.
+  - We huilen achter de exam.
+  - We huilden toen hij viel.
+  - Ik heb gehuild toen ik hem zag.
+- vallen. fall.
+  - Ik val van de trap.
+  - Ze valt van de stoel.
+  - We vallen van de boot.
+  - Ik viel van de bank.
+  - We zijn van het bed gevallen.
+- Douchen. shower.
+  - Ik douche in de badkamer.
+  - Hij doucht in s'morgens.
+  - We douchen s'nachts.
+  - Ik heb deze morgen gedoucht/gedouched?.
+- invullen. fill.
+  - I vul het formulier in.
+  - Ze vult het formulier in.
+  - Ze vullen het formulier in.
+  - Ik heb het formulier ingevuld.
+  - Ze hebben het formulier ingevuld.
+- Aantrekken. put on/attract.
+  - Ik trek mijn jas aan.
+  - Hij trekt zijn jas aan.
+  - Wij trekken onze jassen aan.
+  - Ik heb mijn jas aantrekken/aantrokken?.
+  - Wil je je jas aantrekken?
+- Springen. jump.
+  - Ik spring heel hoog.
+  - Ze springt s'morgens.
+  - Hij sprong op school.
+  - Ik ben over de stoel gesproken.
+  - Ze is over haar tas gesproken.
+- trouwen. marry.
+- liggen. lying down.
+- denken. think.
+- slaan. to beat.
