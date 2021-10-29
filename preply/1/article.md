@@ -1,0 +1,23 @@
+- From https://www.bibliotheekmb.nl/dam/bestanden/opdrachten-voor-groep-c.pdf (Rij 80 km voor een beter milieu)
+- milieu. environment.
+- bron. source.
+- lucht. sky/air.
+- vies. dirty.
+- vooral door. especially by.
+- verkeer. traffic.
+- ongezond. unhealty.
+- ademen (adem). breath.
+- 5e versnelling. 5th gear.
+- versnelling. acceleration.
+- brandstof. fuel.
+- verbruiken. consume.
+- stad, steden. city, cities.
+- nog maar. only.
+- vlakbij. near.
+- file. traffic jam.
+- streng. strict.
+- boete. fine/penalty.
+- daarvan. of them.
+- oorzaak. cause.
+- vuil. dirty.
+- verstandig. wise.
