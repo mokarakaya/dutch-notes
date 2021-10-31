@@ -1,0 +1,13 @@
+- stijgt met. increase by.
+  - Het aantal rokers is met 10% gestegen.
+- afnemen met. decrease by.
+  - Het aantal rokers is met 10% afgenomen.
+- leiden tot. lead to.
+- zich onderscheiden. distinguish.
+- gebrek aan. lack of
+- lichaamsbeweging. physical exercise
+- westerlingen.westernes
+- massaal. massive
+- aanwijzen. point out
+- gevolg. consequence
+- rekening houden met. take into account

@@ -35,6 +35,15 @@ from: https://nt2taalmenu.nl/nt2-a1-woordenleren-werkwoorden-les1/
   - Ik ben over de stoel gesproken.
   - Ze is over haar tas gesproken.
 - trouwen. marry.
+  - Ze trouwen dit weekend.
 - liggen. lying down.
+  - De computer ligt op de tafel.
+  - We hebben op de strand gelegd.
 - denken. think.
+  - We moeten over dit probleem denken.
+  - Denk niet te veel over de dingen je kunt niet veranderen.
+  - We hebben over de klimaatverandering gedacht.
 - slaan. to beat.
+  - Een student slaat andere student.
+  - Je mag niet iemand slaan.
+  - Hij heeft een student geslagen.
