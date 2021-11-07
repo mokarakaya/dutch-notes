@@ -1,0 +1,22 @@
+# Feestdagen
+- valentijnsdag. valentine's day.
+- carnaval. drie dagen in februari of maart.
+- pasen. easter. Een zondag of maandag in in maart of april.
+- koningsdag. 27 april.
+- Doden-herdenking en Bevrijdingsdag. Remembrance Day and Liberation Day. 4 mei and 5 mei.
+- Moederdag. Tweede zondag in mei.
+- Hemeldag. Ascension Day. Een donderdag in mei.
+- Pinksteren. Pentecost. Een zondag en maandag in mei of juni. God is in de mensen gekomen.
+- Vaderdag. Derde zondag in juni.
+- Sinterklaas. 5 december, vooral 's avonds.
+- Kerstmis. Christmas. 25 26 december.
+- Oud en nieuw. New year.
+- Suikerfeest. Sugarfest.
+
+
+- snoep. sweets.
+- versieren. to decorate.
+- vuurwerk. fireworkds.
+- kaars. candle.
+- bruiloft. wedding.
+- uitnodiging. invitation.

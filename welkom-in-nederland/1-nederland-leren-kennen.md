@@ -1,8 +1,6 @@
 - Nederlands is iets meer dan 40.000 vierkante kilometer groot.
 - Van noord naar zuid is Nederland 300 kilometer lang. Drie uur met auto.
 - Van oost naar west is Nederland 180 kilometer. Twee uur met auto.
--
-
 
 - vliegveld. airport.
 
