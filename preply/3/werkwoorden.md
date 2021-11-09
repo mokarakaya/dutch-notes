@@ -1,0 +1,5 @@
+- aankloppen. knock on door.
+  - Ik klop de deur aan.
+  - Hij klopte de deur aan.
+  - Ik heb de deur aangeklopt
+  - Klop je de deur aan?

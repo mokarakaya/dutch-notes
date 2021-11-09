@@ -20,3 +20,15 @@
 - kaars. candle.
 - bruiloft. wedding.
 - uitnodiging. invitation.
+- slagen. to succeed.
+- dood gaan. die.
+- de begrafenis. funeral.
+- schamen zich. are ashamed.
+- condeleren. condolences. bas sagligi.
+- hand geven. shake hands.
+- wandelen. to walk.
+- passen op. baby sit, watch out.
+- sollicitatiegesprek. job interview.
+- hapjes. appetizers.
+- cadeaubon. gift voucher.
+- nodigen. invite.
