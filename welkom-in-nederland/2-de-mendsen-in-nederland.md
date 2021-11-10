@@ -32,3 +32,24 @@
 - hapjes. appetizers.
 - cadeaubon. gift voucher.
 - nodigen. invite.
+- beurt. turn. ik ben aan de beurt.
+- zoen. kiss.
+- aanraken. touch.
+- aankijken. look in the eye.
+- last van. to suffer from, bother.
+- rommel. mess, rubbish.
+- vuilnis. garbage.
+- gewoon. just.
+- roepen. call.
+
+# In het openbaar vervoer
+
+- Iedereen van veertien jaar en ouder moet altijd al een identiteitsbewijs bij zich hebben. Maar in het openbaar vervoer moet dat al als je twaalf jaar bent.
+
+- openbaar vervoer. public transport.
+- vervoersbewijs. ticket.
+- boete. fine.
+- identiteisbewijs. id card.
+- stilte. silence.
+- stiltecoupes. silence sections.
+- opleiding. education.
