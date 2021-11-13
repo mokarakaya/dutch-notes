@@ -1,5 +1,48 @@
+from: https://nt2taalmenu.nl/nt2-a1-woordenleren-werkwoorden-les2/
 - aankloppen. knock on door.
   - Ik klop de deur aan.
   - Hij klopte de deur aan.
   - Ik heb de deur aangeklopt
   - Klop je de deur aan?
+- koken. cook.
+  - Ik kook pasta.
+  - Hij heeft maaltijd gekookt.
+  - Zij and Ik kookten.
+- schoonmaken. to clean.
+  - Ik maak mijn huis schoon.
+  - Ik heb de trap schoongemaakt.
+  - Heb je je kamer schoongemaakt?
+  - We maken de auto schoon.
+- ophangen. hang up.
+  - Ik hang de kleren op.
+  - Ik heb de trui opgehangen.
+  - Heb je je broek opgehangen?
+  - We hangen de foto's op.
+- kussen.  to kiss.
+  - Ik kus mijn hond.
+  - We kussen 's morgens.
+  - Ik heb mijn arm gekust.
+  - Heb je je arm gekust?
+- roken. smoking.
+  - Ik rook niet.
+  - We hebben in Kerstmis sigaren gerookt.
+- helpen. help.
+  - I help oud mensen.
+  - Helpen we jullie?
+  - Ze heeft me geholpen met mijn huiswerk.
+  - We hielpen hen met hun tuin.
+- optillen. lift.
+  - Ik til de halter op.
+  - Ze heeft de doos opgetild.
+  - We tilden de dozen opgetild.
+  - Zullen we de halter optillen?
+- repareren. to repair.
+  - Ik wil mijn fiets repareren.
+  - Ik repareer mijn auto.
+  - Ze heeft de stoel gerepareerd.
+  - Zullen we het speelgoed repareren?
+- ontmoeten. meet.
+  - Ik ontmoet hem vanavond.
+  - Onze buren ontmoeten morgenavond onze hond.
+  - Ik heb je eerder ontmoet.
+  - Zullen we ontmoeten met onze nieuw buren?
