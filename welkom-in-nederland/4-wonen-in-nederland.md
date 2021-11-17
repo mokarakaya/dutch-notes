@@ -1,0 +1,44 @@
+- Wat je precies moet doen om een huis te kunnen huren, is niet in alle gemeenten hetzelfde. Jouw gemeente kan je informatie geven als je het precies wilt weten.
+- Als je een probleem hebt met je huisbaas of de woningcorporatie, kun je contact zoeken met de huurcommissie,
+- In sommige gemeenten heb je bijvoorbeeld:
+  - een huisvestingsvergunning nodig als je een goedkope woning wilt huren
+  - een vergunning als je een boom wilt weghalen
+  - een vergunning als je je huis wilt verbouwen.
+
+
+- tevreden. satisfied.
+- etage. floor.
+- verzorgingshuis. nursery home.
+- verzekeringmaatschappij. insurance company.
+- afhankelijk van. depending on.
+- vaste baan. permanent job.
+- rente. interest.
+- geschikt. suitable.
+- notaris. notary.
+- contract tekenen. signing a contract.
+- onderhoud. maintenance.
+- vervangen. to replace.
+- socialehuurwoning. social housing.
+- reageren. respond.
+- aanbieden. offer.
+- urgentieverklaaring aanvragen. request an urgen declaration.
+- scheiden. divorce/seperate.
+- advertentie. advertisement.
+- huisbaas. landlord.
+- verhuurder. owner.
+- huurtoeslag. rent allowance.
+- kranen. taps.
+- huurcommisse. rent commission.
+- zoek uit wie er gelijk heeft. find out who is right.
+- verhuisbericht. moving notice.
+- doorgeven. pass around.
+- afvalstoffenheffing. waste charges.
+- rioolheffing. sewage charges. kanalizasyon ucreti.
+- onroerendezaakbelasting (OZB). property tax.
+- uitkering. payment.
+- kwijtschelding. remission.
+- vergunningen. permits.
+- toestemming. permission.
+- huisvestingsvergunning. housing permit.
+- verbouwen. renovate.
+- rotzooi. mess.
