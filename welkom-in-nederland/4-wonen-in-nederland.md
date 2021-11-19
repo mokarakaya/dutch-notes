@@ -42,3 +42,17 @@
 - huisvestingsvergunning. housing permit.
 - verbouwen. renovate.
 - rotzooi. mess.
+- gooi. throw.
+- bekeuring. traffic ticket.
+- meterstand. meter reading.
+- doorgeven. pass around.
+- vast. fixed.
+- aantal. number.
+- gevaarlijk. dangerous.
+- loodgieter. plumber.
+- zuinig. economical.
+- kabelaansluiting. cable connection.
+- vaste nummer. landline. sabit hat.
+- beltegoed. calling credit.
+- ruiken. to smell.
+- kraan. tap.
