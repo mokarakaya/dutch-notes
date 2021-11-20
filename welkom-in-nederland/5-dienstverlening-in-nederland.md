@@ -1,0 +1,63 @@
+- Je betaalt 21% BTW op bijna alles wat je koopt.
+- Sociaal Raadslieden zijn mensen die je kunnen helpen met verschillende juridische problemen. Het zijn geen advocaten. De hulp van Sociaal Raadslieden is gratis.
+
+- dienstverlening. service.
+- instanties. organizations.
+- maatschappelijk werk. social work.
+- bekeuring. traffic ticket.
+- aangifte doen. declare.
+- geweld. violence.
+- slaan. to beat.
+- dreigen. threaten.
+- dief. thief.
+- spullen. stuff.
+- oplossen. dissolve.
+- lawaai. noise.  
+- bewijs. proof.
+- sterven. to die.
+- geldig. valid.
+- uittreksel uit de gemeentelijke basisadministratie (GBA). extract from the municipal basic administration. het heeft naam, adres envzovoort.
+- vergunning. licence.
+- toestemming. permission.
+- regering. goverment.
+- bankrekening. bank account.
+- BTW. VAT. KDV.
+- heffingskortingen. tax exemption. vergi muafiyeti.
+- kindgebonden budget. child budget.
+- bezwaar. objection.
+- toeslag. allowance.
+- kinderopvang. day-care.
+- kinderdagblijf. nursery.
+- kinderbijslag. child benefits.
+- saldo. balance.
+- tekort. shortage.
+- contant. in cash.
+- intoetsen. key in.
+- geld overmaken. money transfer.
+- machtiging. authority.
+- incasso. collection.
+- handtekening. signature.
+- acceptgiro. giro collection form.
+- strook. strip.
+- verblijfsvergunning. residence permit.
+- verlengen. extend.
+- Je bent pas in Nederland. You have just arrived in the Netherlands.
+- melden. report.
+- aanmelden. sign up.
+- vreemdelingenpolitie. aliens police.
+- bepaalde tijd. definite period.
+- onbepaalde tijd. indefinite period.
+- asielzoeker. asylum seeker.
+- inburgeningsplichtig. civic integration obligation.
+- niveau. level.
+- vrijstelling. exemption.
+- verpleeghuis. nursing home.
+- juridische. legal.
+- behandelen. to treat.
+- ruzien. argue.
+- rechtszaak. lawsuit. dava.
+- rechter. judge.
+- wie er gelijk heeft. who is right.
+- Sociaal Raadslieden. Social counselors. sosyal danismanlar.
+- Juridsche Loket. Legal counter.
+- 

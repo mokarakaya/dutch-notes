@@ -4,6 +4,10 @@
   - een huisvestingsvergunning nodig als je een goedkope woning wilt huren
   - een vergunning als je een boom wilt weghalen
   - een vergunning als je je huis wilt verbouwen.
+- Woonhuisverzekering/Opstalverzekering verzekering moet je hebben om een hypotheek te krijgen.
+  - Het is een verzekering voor een koophuis.
+- Autoverzekering/WA-verzekering is verplicht.
+- De zorgverzekering: De basisverzekering is verplicht.
 
 
 - tevreden. satisfied.
@@ -56,3 +60,14 @@
 - beltegoed. calling credit.
 - ruiken. to smell.
 - kraan. tap.
+- aansprakelijkheidsverzekering (AVP). liability insurance.
+- particulieren. individuals.
+- enzoovoort. and so forth.
+- inboedel. household effects.
+- schade. injury/damage.
+- woonhuisverzekering/opstalverzekering. home insurance.
+- autoverzekering/WA-verzekering. car insurance.
+- brommer. moped. motorlu bisiklet.
+- zorgverzekering. health insurance.
+- melden. report.
+- bon/bonnen. receipt/receipts.
