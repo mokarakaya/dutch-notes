@@ -1,0 +1,30 @@
+- leeftijden:
+  - 0 tot 1 jaar: de baby.
+  - 1 tot 4 jaar: de peuter. toddler.
+  - 4 tot 6 jaar: de kleuter. toddler.
+  - 6 tot 12 jaar: het schoolkind.
+  - 12 tot 18 jaar: de puber. adolescent. ergen.
+
+- opvoeding. upbringing. yetistirme.
+- leeftijd. ages.
+- bevallen. to give birth.
+- bevalling. birth.
+- zwangerschapsverlof. maternity leave.
+- meten. measure.
+- wegen. weight.
+- ontwikkeling. development.
+- vaccinatie/prik. vaccine.
+- groeiboekje. growth booklet.
+- kinderopvang. day-care.
+- oppas. babysit.
+- gastouderbureau. childminder agency. cocuk bakicisi ajansi.
+- kinderdagverblijf. day-care.
+- buitenschoolse opvang/naschoolse opvang. elementary school kids (van vier tot twaalf jaar) go after school time.
+- basisschool. elementary school.
+- kinderopvangtoeslag. childcare allowance.
+- kinderbijslag. child benefits.
+- afgankelijk. dependent.
+- maak ruzie. argue.
+- mishandelen. mistreat. kotu muamele.
+- straf. punishment.
+- bewegen. move.
