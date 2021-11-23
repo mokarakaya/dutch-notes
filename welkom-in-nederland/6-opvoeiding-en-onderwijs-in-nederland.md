@@ -4,6 +4,14 @@
   - 4 tot 6 jaar: de kleuter. toddler.
   - 6 tot 12 jaar: het schoolkind.
   - 12 tot 18 jaar: de puber. adolescent. ergen.
+- Je betaalt veel geld aan het kinderdagverblijf. Je wilt geld terugkrijgen van de belasting.: kinderopvangtoeslag.
+- Je hebt pas een baby gekregen en je wilt wat extra geld voor kleren, voeding enzovoort.: kinderbijslag.
+- Kinderbijslag stopt als je kind achttien jaar is.
+- Je krijgt kinderbijslag van de SVB.
+- Er is leerplicht totdat een kind zestien jaar is.
+  - Kinderen van zestien en zeventien moeten ook naar school als ze nog geen diploma hebben. (Het vmbo-diploma is niet genoeg.)
+- Peuterspeelzaal: Als een kind twee of tweeënhalf jaar is, mag hij naar de peuterspeelzaal. Dat is een school voor kinderen tot vier jaar.
+- De voorschool: Kinderen van twee tot vier jaar gaan daar. De voorschool is er voor kinderen die thuis geen Nederlands spreken en voor kinderen die achter zijn in hun ontwikkeling.
 
 - opvoeding. upbringing. yetistirme.
 - leeftijd. ages.
@@ -28,3 +36,16 @@
 - mishandelen. mistreat. kotu muamele.
 - straf. punishment.
 - bewegen. move.
+- voorlezen. to read loud.
+- verantwoordelijk. responsible.
+- openbare school. public school.
+- leerplicht. compulsory education. zorunlu egitim.
+- de peuterspeelzaal. playgroup.
+- knutselen. to craft.
+- juf. teacher.
+- voorschool. preschool.
+- basisschool. elementary school.
+- tekenen. draw.
+- tellen. to count.
+- rekenen. to calculate.
+- vakken. subjects.
