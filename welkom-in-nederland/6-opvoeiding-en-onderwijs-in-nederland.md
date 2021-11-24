@@ -13,6 +13,19 @@
 - Peuterspeelzaal: Als een kind twee of tweeënhalf jaar is, mag hij naar de peuterspeelzaal. Dat is een school voor kinderen tot vier jaar.
 - De voorschool: Kinderen van twee tot vier jaar gaan daar. De voorschool is er voor kinderen die thuis geen Nederlands spreken en voor kinderen die achter zijn in hun ontwikkeling.
 
+# Het voortgezet onderwijs. Secondary education.
+- vwo: duurt zes jaar.  Na het vwo kun je op de universiteit leren voor een beroep als dokter of advocaat.
+- havo: duurt vijf jaar.  Na de havo kun je naar het hoger beroepsonderwijs (hbo). Daar kun je bijvoorbeeld leren voor een beroep als leraar op een basisschool.
+- vmbo: duurt vier jaar.  Na het vmbo kun je op het middelbaar beroepsonderwijs (mbo) verder leren voor een beroep, bijvoorbeeld in de kin-deropvang of in een winkel.
+
+# Doorstromen. Flow through.
+- Met een vwo-diploma:  Naar het hbo of de universiteit
+- Met een havodiploma: Naar het hbo of mbo of de vijfde klas van het vwo
+- Met een vmbo-diploma: Naar het mbo of de vierde klas van de havo
+- Met een hbo-diploma: Naar de universiteit
+- Met een mbo-diploma (niveau 4): Naar het hbo
+
+
 - opvoeding. upbringing. yetistirme.
 - leeftijd. ages.
 - bevallen. to give birth.
@@ -49,3 +62,7 @@
 - tellen. to count.
 - rekenen. to calculate.
 - vakken. subjects.
+- voortgezet onderwijs/middelbare school. secondary education.
+- niveau. level.
+- brugklas. seventh grade.
+- doorstromen. flow through.
