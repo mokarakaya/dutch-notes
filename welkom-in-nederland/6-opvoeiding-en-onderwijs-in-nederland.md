@@ -25,6 +25,10 @@
 - Met een hbo-diploma: Naar de universiteit
 - Met een mbo-diploma (niveau 4): Naar het hbo
 
+# Wat kost naar school gaan?
+- ouderbijdrage: De basisschool of het voortgezet onderwijs vraagt ouders om te betalen voor verschillende kosten, zoals een schoolreisje of feesten. De ouderbijdrage is niet verplicht.
+- Voor kinderen tot achttien jaar is het onderwijs gratis. Als je ouder bent dan achttien, moet je wel lesgeld betalen.
+
 
 - opvoeding. upbringing. yetistirme.
 - leeftijd. ages.
@@ -66,3 +70,5 @@
 - niveau. level.
 - brugklas. seventh grade.
 - doorstromen. flow through.
+- ouderbijdrage. parental contribution.
+- opleiding. education.
