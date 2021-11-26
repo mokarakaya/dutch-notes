@@ -1,0 +1,60 @@
+- Een flexwerker is iemand die tijdelijk werk doet dat nooit een vaste baan kan worden
+- Zwart werk: Als je werkt zonder belasting te betalen, werk je zwart. Zwartwerken is verboden.
+
+# kwaliteiten. qualities.
+- betrouwbaar. trustworty.
+- doorzetter. go-getter.
+- handig. useful.
+- zelfstandig. independent.
+- zorgzaam. caring.
+- geduld. patience.
+
+- WW-uitkering: Je hebt recht op een WW-uitkering als je werkloos bent en meer dan een halfjaar hebt gewerkt.
+- WIA-uitkering: Sommige mensen zijn arbeidsongeschikt: ze kunnen niet meer werken door problemen met hun gezondheid. Deze mensen kunnen een WIA-uitkering krijgen.
+- Bijstand aanvragen: Als je geen recht hebt op een andere uitkering, kun je soms bijstand aanvragen. Je krijgt alleen bijstand als je niet genoeg geld hebt om van te leven. Dus niet als je partner genoeg geld verdient. Mensen met een eigen huis of spaargeld moeten dat geld eerst opmaken. Bijstand is niet veel geld. De meeste mensen kunnen er maar moeilijk van leven. Met een uitkering heb je ook plichten: je moet solliciteren en soms cursussen volgen.
+- open solicitatie: een sollicitatie zonder vacature.
+- Kamer van Koophandel: Als je een eigen bedrijf begint, moet je je inschrijven bij de Kamer van Koophandel.
+
+
+- vrijwilligerswerk. volunteer work.
+- tijdelijk werk. temproary work.
+- vast werk. permanent work.
+- uitzendbureau. employment agency.
+- zelfstandig ondernemer. entrepreneur.
+- werkgever. employer.
+- werknemer. employee.
+- solliciteren. apply.
+- dienstensector. service sector. hizmet sektoru.
+- welzijn. welbeing.
+- handel. trade.
+- vervoer. transport.
+- beveiliging. security.
+- waarderen. appreciate.
+- ongeschoold werk. unskilled labor.
+- ervaring. experience.
+- werkervaring. work experience.
+- verpleegkundige. nurse.
+- beroepsopleiding. professional education.
+- kwaliteiten. qualities.
+- werkloos. unemployed.
+- uitkering. payment.
+- vacature. job offer.
+- arbeidongeschikt. incapacitated.
+- spaargeld. savings.
+- plichten. duties.
+- als dat lukt. if that works.
+- uitzendkracht. temp worker.
+- de taken. tasks.
+- functie-eisen. job requirements.
+- nodig uit. invite.
+- uitgenodigd. invited.
+- gesprek. conversation.
+- voorbereiden. to prepare.
+- arbeidsvoorwaarden. working conditions.
+- teken. sign.
+- ondernemingsplan. business plan.
+- het arbeidscontract. employment contract.
+- proeftijd. probation period.
+- ontslag nemen. resign.
+- ontslag krijgen. getting fired.
+-
