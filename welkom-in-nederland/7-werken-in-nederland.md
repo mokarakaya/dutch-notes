@@ -14,7 +14,12 @@
 - Bijstand aanvragen: Als je geen recht hebt op een andere uitkering, kun je soms bijstand aanvragen. Je krijgt alleen bijstand als je niet genoeg geld hebt om van te leven. Dus niet als je partner genoeg geld verdient. Mensen met een eigen huis of spaargeld moeten dat geld eerst opmaken. Bijstand is niet veel geld. De meeste mensen kunnen er maar moeilijk van leven. Met een uitkering heb je ook plichten: je moet solliciteren en soms cursussen volgen.
 - open solicitatie: een sollicitatie zonder vacature.
 - Kamer van Koophandel: Als je een eigen bedrijf begint, moet je je inschrijven bij de Kamer van Koophandel.
-
+- Premies: betaal je voor verzekeringen bijvoorbeeld  premie voor je pensioen, premie voor als je werkloos wordt, premie voor als je arbeidsongeschikt wordt.
+- De vakbond:  Een vakbond is er om de werknemers te helpen. De vakbond:  praat met de werkgevers over de salarissen;  praat met de werkgevers over de cao;  helpt je als je een conflict hebt met je werkgever;  geeft informatie over alles wat met je werk te maken heeft.
+  - De grootste vakbond in Nederland is de FNV. De website van de FNV is www.fnv.nl. Van een vakbond kun je lid worden. Je moet dan elke maand geld betalen.
+- Ondernemingsraad (OR): In een bedrijf met meer dan vijftig werk-nemers is een ondernemingsraad verplicht
+- De Arbowet: De Arbowet is een wet die goed voor de werknemers is.
+- Personeelsvereniging (PV):  De personeelsvereniging zorgt voor gezellige dingen en organiseert bijvoorbeeld feestjes.
 
 - vrijwilligerswerk. volunteer work.
 - tijdelijk werk. temproary work.
@@ -37,7 +42,7 @@
 - beroepsopleiding. professional education.
 - kwaliteiten. qualities.
 - werkloos. unemployed.
-- uitkering. payment.
+- uitkering. payment/benefit.
 - vacature. job offer.
 - arbeidongeschikt. incapacitated.
 - spaargeld. savings.
@@ -57,4 +62,15 @@
 - proeftijd. probation period.
 - ontslag nemen. resign.
 - ontslag krijgen. getting fired.
--
+- collectieve arbeidsovereenkomst (cao). collective agreement. toplu is sozlesmesi.
+- minimumloon. minimum wage. asgari ucret.
+- loonstrook. payslip.
+- jaaropgave. annual statement. yillik beyan.
+- bewaren. keep.
+- De ondernemingsraad (OR). works council. is konseyi.
+- De medezeggenschapsraad. employee participation council. calisan katilim konseyi.
+- wet. law.
+- werkoverleg. work meeting.
+- vergadering. meeting.
+- mensen die de leiding hebben. people in charge.
+- bidden. pray.
