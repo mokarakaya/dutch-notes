@@ -1,0 +1,31 @@
+- Van alle Nederlanders woont ongeveer 17% alleen.
+- Ongeveer 26% van de mensen woont samen met een andere volwassene in een huis.
+- Ongeveer 57% van de mensen in Nederland woont in een gezin
+- Tussen de 5 en 10% van de Nederlanders is homo of lesbienne.
+
+- sterven. die.
+- is gescheiden. is divorced.
+- samenlevingscontract tekenen. sign cohabitation contract. birlikte yasama sozlesmesi imzalamak.
+- huwelijken. marriages.
+- steeds meer. increasingly.
+- seksuele voorlichting. sex education.
+- streng. strict.
+- dominee. pastor. papaz.
+- bloot. naked.
+- lichamelijk contact. physical contact.
+- zoenen. to kiss.
+- puberteit. puberty. ergenlik.
+- grondwet. constitution. anayasa.
+- gewoonte. habit.
+- verantwoordelijk. responsible.
+- verbieden. forbid.
+- gevangenis. jail.
+- verkrachting. rape.
+- dwingen. force.
+- vermoorden. murder.
+- eerwraak. honor killing. namus cinayeti.
+- besnijdenis. circumcision. sunnet.
+- geweld. violence.
+- mes. knife.
+- vergunning. licence.
+- mishandeling. abuse.
