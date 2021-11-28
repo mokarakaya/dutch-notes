@@ -1,0 +1,68 @@
+# De tijd voor 1800
+
+- Er woonden 250.000 jaar geleden al mensen in het gebied dat we nu ‘Nederland’ noemen. Rond het jaar 0 kwamen de Romeinen in dit gebied.
+- De periode tussen 500 en 1500 na Christus noemen we de middeleeuwen. In de middeleeuwen waren hier allemaal kleine landjes met hun eigen leider.
+- De Tachtigjarige Oorlog (1568-1648): Tot ongeveer 1500 hadden alle mensen in de Nederlanden hetzelfde geloof: ze hoorden allemaal bij de katholieke kerk. De kerk had veel macht en de mensen moesten veel aan de kerk betalen. Daar begonnen mensen tegen te protesteren: ze werden protestant en begonnen hun eigen kerken. In die tijd hoorden de Nederlanden bij Spanje. De Spaanse koning was katholiek en zei dat alle pro-testanten moesten worden gedood.
+- De Nederlanden werden in 1588 een republiek, omdat ze niet langer bij Spanje wilden horen.
+- Ze noemden zich de ‘Republiek der Zeven Verenigde Nederlanden’. ‘Verenigd’ betekent: samen. Zeven provincies werkten samen
+- Het Wilhelmus is het Nederlandse volkslied.
+- Gouden Eeuw (1600 tot 1700):
+  - De Nederlandse staat begon de VOC: de Verenigde Oost-Indische Compagnie. In de VOC werkten bedrijven samen in de handel met Azië.
+  - Er was ook handel met Afrika en Amerika, met de WIC (West-Indische Compagnie).
+
+# De tijd na 1800.
+- In 1814 werd Nederland een koninkrijk.
+  - De koning was Willem de Eerste. De grondwet, die we nu nog hebben, is gemaakt in 1815.
+- De grondwet is veranderd in 1848. Sinds die tijd heeft de koning (dat was toen koning Willem de Derde) minder macht en is Nederland een democratie.
+- Na 1850 kwamen er fabrieken met nieuwe machines in de steden.
+  - De arbeiders in de fabrieken moesten wel zestien uur per dag werken voor weinig geld.
+  - Ook vrouwen en kinderen moesten in de fabriek werken.
+- Pas in 1917 mochten alle mannen stemmen. En pas in 1919 mochten ook vrouwen stemmen!
+- In 1871 ging de eerste vrouw voor dokter studeren: Aletta Jacobs.
+- Tweede Wereldoorlog: In 1940 werd binnen vijf dagen ook Nederland bezet.
+- 4 en 5 mei:
+  - Elk jaar is het op 4 mei dodenherdenking. Om acht uur ’s avonds is het twee minuten stil.
+  - Op 5 mei is het Bevrijdingsdag,
+- Rond 1600 begonnen Nederlanders al stukken land droog te maken en ontstonden de eerste polders. De provincie Flevoland is bijna helemaal polder.
+- het Deltaplan: In 1953 was er een grote overstroming. Een groot deel van de provincie Zeeland en delen van de provincies Zuid-Holland en Noord-Brabant kwam onder water te staan. Meer dan 1800 mensen zijn gestorven. Daarna heeft de regering een plan gemaakt om goede dijken en dammen te maken: het Deltaplan.
+- de Inburgeringswet: Sinds 2007 is er een nieuwe wet in Nederland: de Inburgeringswet. Allochtonen moeten nu een examen doen om hier te mogen komen en te mogen blijven.
+- Algemene Ouderdomswet(AOW): General old age act.
+- Het Achterhuis: Het Achterhuis is een woning waar de Joodse familie Frank zat.
+
+- geschiedenis. history.
+- jaartelling. era.
+- gebied. area.
+- bezetten. occupy.
+- ontstaan. originate/arise.
+- middeleleeuwen. middle age.
+- leider. leader.
+- boer. farmer.
+- beschermen. protect.
+- afval. waste.
+- macht. power.
+- verzet. resist.
+- bevrijden. liberate.
+- doodgeschoten. shot dead.
+- voorvader. ancestor.
+- volkslied. anthem.
+- grachtenhuizen. canal houses.
+- pakhuizen. warehouses.
+- verliezen. lose.
+- beloven. promise.
+- vechten. fight.
+- gevangengenomen. captured.
+- geheime. secret.
+- onderduiken. hiding.
+- beroemd. famous.
+- verdelen. divide.
+- bonnen. receipts.
+- zeep. soap
+- gevaarlijk. dangerous.
+- dodenherdenking. remembrance day.
+- bevrijdingsdag. liberation day.
+- welvaart. welfare. refah.
+- polder. denizden kazanilmis toprak.
+- weilanden. meadows. cayirlar.
+- overstroming. flood.
+- allochtonen. immigrants.
+- gastarbeiders. guest workers.
