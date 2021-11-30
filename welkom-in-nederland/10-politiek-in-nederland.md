@@ -49,6 +49,42 @@
 # Het waterschap
 - Het waterschap In Nederland kun je ook elke vier jaar stemmen voor het waterschap.
 
+
+- Als er een nieuw kabinet is, wordt er altijd een foto gemaakt met de koning erbij.
+
+# De Regels
+- Er zijn bijna 150 artikelen (regels) in de grondwet
+- Artikelen:
+  - Artikel 1: Discriminatie is verboden
+  - Artikel 6: Vrijheid van godsdienst
+  - Artikel 7: vrijheid van meningsuiting
+  - Artikel 23: vrijheid van onderwijs
+
+# Scheiding van machten.
+- uitvoerende macht (executive - yurutme): regering.
+- wetgevende macht (legislative - yasama): parlement.
+- rechtterlijkte macht (judiciary - yargi): rechters.
+
+# Protesteren
+- Handtekening: by getting signatures.
+- Demonstratie: by demonstration
+- Staking: by strike.
+
+# Politieke partijen
+- VVD (Volkspartij voor Vrijheid en Democratie): liberale partij.
+- PVV (Partij voor de Vrijheid): Minder buitlanders.
+- CDA (Christen Democratish Appel): Christendemocratishe partij.
+- D66 (Democraten 1966): Democratie.
+- GroenLinks: milieu. gelijke kansen.
+- SP (Socialistische Partij): socialistische partij
+- PvdA (Partij van de Arbeid): sociaaldemocratische
+- ChristenUnie (CU): Bijbel
+- PvdD (Partij voor de Dieren): dieren en het milieu.
+- 50Plus: Oudere mensen.
+- SGP (Staatkundig Gereformeerde Partij): Christelijk.
+- Denk: Turkse en Marokkaanse
+- Forum voor Democratie: kleine partij. referendum belangrijk.
+
 - meerderheid. majority.
 - inwoner. resident.
 - bestuur. management.
@@ -62,3 +98,17 @@
 - stembiljet. ballot paper. oy pusulasi.
 - verkiezing. election.
 - uitslag. result.
+- potlood. pencil.
+- zetel. seat.
+- verdelen. divide.
+- regeerakkoord. coalition agreement.
+- godsdienst. religion.
+- vrijheid van meningsuiting: freedom of speech.
+- scheiding tussen kerk en staat: separation between church and state.
+- in strijd. conflict.
+- hoofddoek. headscarf.
+- kwetsend. hurtful.
+- scheiding van machten. separation of powers.
+- uitvoerende macht. executive branch.
+- rechters. judges.
+- gelijk. equal.
