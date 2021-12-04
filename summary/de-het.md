@@ -1,0 +1,63 @@
+# De
+- Meervoud (plurals)
+  - de huizen. the houses.
+- personen.
+  - de docent.
+  - uitzondering.
+    - het kind.
+- gronte en fruit
+  - de appel.
+  - uitzondering.
+    - het fruit.
+- bomen, bloemen, planten. trees, flowers, plants.
+  - de eik. the oak. mese..
+  - de tulp.
+  - uitzondering.
+    - het bos.
+    - het weiland. farm field.
+    - het veld. field.
+    - het gras. grass.
+- namen van rivieren and bergen.
+  - de rijn.
+- cijfers, letters. numbers, letters.
+  - de vijf.
+- vervoermiddelen. means of transformation.
+  - de auto.
+  - uitzondering.
+    - het vliegtuig. airplane.
+    - het schip. ship.
+- leenwoorden.
+  - de computer.
+  - uitzondering.
+    - sommige franse woorden.
+      - het cadeau.
+      - het accent.
+      - het abonnement. subscription.
+
+# Het
+- Verkleinworden. Diminuvites.
+  - het meijse.
+- Talen. Languages
+  - het Spaans.
+- Metalen, Stoffen, materialen. metals, fabrics, materials.
+  - het goud. the gold.
+  - het katoen. the cotton.
+  - het hout. the wood.
+  - uitzondering. exception.
+    - de wol. wool.
+- Spelen, sporten.
+  - het poker.
+  - het voetbal.
+  - uitzondering.
+    - de yoga.
+- windrichtingen. wind directions.
+  - het westen.
+- kleuren.
+  - het rood.
+- zelfstandige naamwoorden van werkwoorden. nouns from verbs.
+  - het praten.
+
+- without categories.
+  - het huis.
+  - het boek.
+  - het strand. beach.
