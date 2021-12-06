@@ -56,6 +56,10 @@
   - het rood.
 - zelfstandige naamwoorden van werkwoorden. nouns from verbs.
   - het praten.
+- words starting with: be-, ge-, ver-, ont-
+  - het verhaal.
+- words ending with: isme, ment, sel eum
+  - het museum
 
 - without categories.
   - het huis.
