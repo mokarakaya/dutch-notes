@@ -9,6 +9,8 @@
 - zorgzaam. caring.
 - geduld. patience.
 
+- UWV: Bij het UWV krijg je meestal ook een werkcoach. Dat is iemand die je helpt bij het zoeken naar werk.
+- Uitzendbureau: Ook bij een uitzendbureau kun je vacatures vinden. Dat zijn meestal vacatures voor tijdelijk werk.
 - WW-uitkering: Je hebt recht op een WW-uitkering als je werkloos bent en meer dan een halfjaar hebt gewerkt.
 - WIA-uitkering: Sommige mensen zijn arbeidsongeschikt: ze kunnen niet meer werken door problemen met hun gezondheid. Deze mensen kunnen een WIA-uitkering krijgen.
 - Bijstand aanvragen: Als je geen recht hebt op een andere uitkering, kun je soms bijstand aanvragen. Je krijgt alleen bijstand als je niet genoeg geld hebt om van te leven. Dus niet als je partner genoeg geld verdient. Mensen met een eigen huis of spaargeld moeten dat geld eerst opmaken. Bijstand is niet veel geld. De meeste mensen kunnen er maar moeilijk van leven. Met een uitkering heb je ook plichten: je moet solliciteren en soms cursussen volgen.
@@ -74,3 +76,4 @@
 - vergadering. meeting.
 - mensen die de leiding hebben. people in charge.
 - bidden. pray.
+- vakbond. union.
