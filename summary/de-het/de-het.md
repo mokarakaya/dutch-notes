@@ -65,3 +65,4 @@
   - het huis.
   - het boek.
   - het strand. beach.
+  - het park.

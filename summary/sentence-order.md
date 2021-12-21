@@ -25,3 +25,10 @@ from: https://www.reginacoeli.com/blog/correct-word-order-in-dutch-sentences.htm
 
 - Ik fiets nu snel naar huis.
 - Vandaag ga ik op de fiets naar het huis.
+
+
+# Negating Sentences (from: https://www.dutchgrammar.com/en/?n=WordOrder.45)
+
+- The most common place for niet is between the middle and the right part. By doing this, we deny the general act or event indicated by the verbs. Whenever you are in doubt, put niet in this position and your sentence will almost certainly be right.
+
+- If we place niet before TIME, PLACE, MANNER, or the direct object, we do this to stress that it was not yesterday (but today), that it was not in Amsterdam (but in Den Haag), that we did not do it together (but alone), that we did not give her flowers (but chocolate), etc.
